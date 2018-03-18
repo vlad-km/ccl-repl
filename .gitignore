@@ -1,0 +1,11 @@
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+.DS_Store
+._*
+*~
+*.wx64fsl
+.#*
+templ.lisp
+repl-orig.lisp
